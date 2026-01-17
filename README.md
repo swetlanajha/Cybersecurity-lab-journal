@@ -1,3 +1,4 @@
 # Cybersecurity-lab-journal 💻👩‍💻
-My journey to becoming a Blue Team Analyst. A repository of lab notes, packet captures, and detection logic (Wazuh/Splunk).
+My journey of learning cyber security. 
+This repository is about my home lab everything i do there - my work, my projects, my error handling situations and all. 
 
